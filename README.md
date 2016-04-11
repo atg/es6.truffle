@@ -1,3 +1,3 @@
 # es6.truffle
 
-Forked from JavaScript.
+Forked from the JavaScript tmbundle.
